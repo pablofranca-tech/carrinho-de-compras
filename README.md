@@ -1,6 +1,6 @@
 # Carrinho de Compras 🛒
 
-Este projeto foi desenvolvido como parte dos meus estudos na [Alura](https://www.alura.com.br), utilizando HTML, CSS e JavaScript puro para criar um carrinho de compras funcional.
+Este projeto foi desenvolvido como parte dos meus estudos na [Alura](https://www.alura.com.br), utilizando HTML, CSS e JavaScript puro  criar um carrinho de compras funcional.
 
 ## 🔗 Acesse o projeto online
 
